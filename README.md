@@ -5,7 +5,7 @@
 Доступна по ссылке [на GitHub Pages](https://stella-de-mario.github.io/russian-travel/index.html)
 
 
-![](../images/preview.jpg)
+![Preview](https://github.com/Stella-de-mario/russian-travel/blob/main/images/Preview.png)
 
 
 ## Описание
@@ -16,3 +16,6 @@
 ## Стек
 
 HTML5, CSS3(grid, flexbox), BEM
+
+
+
