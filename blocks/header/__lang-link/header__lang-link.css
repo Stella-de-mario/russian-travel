@@ -1,0 +1,28 @@
+.header__lang-link {
+  font-size: 24px;
+  line-height: 28px;
+  color: #ffffff;
+  text-decoration: none;
+
+  margin: 0;
+}
+
+@media screen and (max-width: 1280px) {
+  .header__lang-link {
+    font-size: 24px;
+    line-height: 28px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+}
+
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 320px) {
+  .header__lang-link {
+    font-size: calc(100vw * (18 / 320));
+    line-height: calc(100vw * (20 / 320));
+  }
+}
