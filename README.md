@@ -5,7 +5,7 @@
 Доступна по ссылке [на GitHub Pages](https://stella-de-mario.github.io/russian-travel/index.html)
 
 
-![Preview](https://github.com/Stella-de-mario/russian-travel/blob/main/images/Preview.png)
+![Preview](../russian-travel/images/Preview.png)
 
 
 ## Описание
