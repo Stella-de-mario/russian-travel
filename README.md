@@ -1,15 +1,18 @@
 # Проект: Путешествие по России
 
 ### Обзор
-https://stella-de-mario.github.io/russian-travel/index.html
 
-**Интро**
-
-Здесь будет проект о путешествии по России.
+Доступна по ссылке [на GitHub Pages](https://stella-de-mario.github.io/russian-travel/index.html)
 
 
-**Figma**
+![](./images/preview.jpg)
 
 
-**Картинки**
+## Описание
 
+Одностраничный сайт о путешествии по России. Адаптивная вёрстка по макету Figma.
+
+
+## Стек
+
+HTML5, CSS3(grid, flexbox), BEM
