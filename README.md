@@ -1,7 +1,7 @@
 # Проект: Путешествие по России
 
 ### Обзор
-https://stella-de-mario.github.io/russian-travel/
+https://stella-de-mario.github.io/russian-travel/index.html
 
 **Интро**
 
