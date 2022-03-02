@@ -8,6 +8,10 @@
   white-space: pre-line;
   margin: 245px 0 0 0;
   z-index: 1;
+  width: 560px;
+  height: 152px;
+  left: 360px;
+  top: 6246px;
 }
 
 @media screen and (max-width: 1280px) {

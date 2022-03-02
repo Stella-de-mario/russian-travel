@@ -2,7 +2,7 @@
 
 ### Обзор
 
-Доступен по ссылке [на GitHub Pages](https://stella-de-mario.github.io/russian-travel/index.html)
+Доступен по ссылке на [GitHub Pages](https://stella-de-mario.github.io/russian-travel/index.html)
 
 ![Preview](https://github.com/Stella-de-mario/russian-travel/blob/main/images/Preview.png)
 
@@ -12,4 +12,4 @@
 
 ## Стек
 
-HTML5, CSS, BEM
+HTML5, CSS, БЭМ
