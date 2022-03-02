@@ -31,7 +31,6 @@
   .cover__title {
     font-size: calc(100vw * (32 / 320));
     line-height: calc(100vw * (35 / 320));
-
     margin-top: 33px;
   }
 }
