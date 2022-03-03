@@ -4,9 +4,7 @@
   line-height: 76px;
   font-weight: 900;
   color: #ffffff;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-
+  padding: 0;
   margin: 0;
 }
 
@@ -14,9 +12,6 @@
   .place__title {
     width: calc(100vw * (460 / 1280));
   }
-}
-
-@media screen and (max-width: 1024px) {
 }
 
 @media screen and (max-width: 768px) {
@@ -29,9 +24,8 @@
 
 @media screen and (max-width: 320px) {
   .place__title {
-    width: calc(100vw * (288 / 320));
-    font-size: calc(100vw * (32 / 320));
-    line-height: calc(100vw * (35 / 320));
-    padding: 0 5vw;
+    font-size: 32px;
+    padding-right: 0;
+    margin: 0 16px;
   }
 }
