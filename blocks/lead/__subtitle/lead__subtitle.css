@@ -8,6 +8,7 @@
   color: #ffffff;
   white-space: pre-line;
   margin: 32px auto 0;
+  padding: 0;
 }
 
 @media screen and (max-width: 320px) {

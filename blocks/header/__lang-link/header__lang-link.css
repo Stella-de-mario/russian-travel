@@ -13,6 +13,13 @@
   margin-right: 18px;
 }
 
+@media (max-width: 768px) {
+  .header__choose-language {
+    font-size: 24px;
+    line-height: 28px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .header__lang-link {
     font-size: 18px;
