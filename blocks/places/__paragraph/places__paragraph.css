@@ -1,28 +1,34 @@
 .places__paragraph {
-    margin: 0;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 163%;
-    color: #ffff;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 163%;
+  color: #ffff;
+  width: 484px;
+  margin: 0 auto 26px;
 }
 
 .places__paragraph:last-of-type {
   margin-bottom: 0;
 }
 
-
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1279px) {
   .places__paragraph {
-    font-size: 16px;
-    line-height: 163%;
+    width: 456px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 1023px) {
+  .places__paragraph {
+    font-size: 16px;
+    line-height: 163%;
+    margin: 0 auto 25px;
+    width: 320px;
+  }
+}
+
+@media screen and (max-width: 767px) {
   .places__paragraph {
     min-width: 288px;
     line-height: 163%;
-    margin-left: 16px;
-    margin-right: 16px;
   }
 }

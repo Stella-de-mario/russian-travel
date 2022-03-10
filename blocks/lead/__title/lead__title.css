@@ -6,20 +6,18 @@
   max-width: 720px;
   text-align: center;
   color: #ffffff;
-  white-space: pre-line;
   margin: 0 auto;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .lead__title {
-    font-size: calc(100vw * (96 / 768));
-    line-height: calc(100vw * (100 / 768));
+    font-size: 40px;
+    line-height: 1.1;
   }
 }
 
 @media screen and (max-width: 320px) {
   .lead__title {
-    font-size: calc(100vw * (40 / 320));
-    line-height: calc(100vw * (44 / 320));
+    max-width: 288px;
   }
 }

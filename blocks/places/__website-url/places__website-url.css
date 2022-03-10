@@ -3,7 +3,8 @@
   font-size: 12px;
   letter-spacing: 2px;
   color: #aaaaaa;
-  margin: 0 0 12px;
+  margin: 0;
   font-style: normal;
   font-weight: normal;
+  text-transform: uppercase;
 }

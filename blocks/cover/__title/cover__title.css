@@ -5,27 +5,29 @@
   color: #ffffff;
   text-align: center;
   text-decoration: none;
-  margin: 245px 0 0 0;
-  max-width: 560px;
+  margin: 245px 0 32px;
+  max-width: 512px;
+  z-index: 1;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width:1279px) {
   .cover__title {
-    margin-top: 195px;
+    margin: 195px 0 32px;
+    max-width: 560px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width:1023px) {
   .cover__title {
-    font-size: calc(100vw * (72 / 768));
-    line-height: calc(100vw * (76 / 768));
+    margin: 115px 0 32px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width:767px) {
   .cover__title {
-    font-size: calc(100vw * (32 / 320));
-    line-height: calc(100vw * (35 / 320));
-    margin-top: 33px;
+    margin: 33px 0 16px;
+    max-width: 288px;
+    font-size: 32px;
+    line-height: 38px;
   }
 }

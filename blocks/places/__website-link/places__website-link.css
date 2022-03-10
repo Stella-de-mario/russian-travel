@@ -1,6 +1,6 @@
 .places__website-link {
-  margin: 0;
-  padding: 0;
+  margin-top: 12px;
+  max-width: 456px;
   font-weight: normal;
   font-style: normal;
   font-size: 18px;
@@ -8,3 +8,15 @@
   color: #ffffff;
 }
 
+
+@media screen and (max-width: 1023px) {
+  .places__website-link {
+    max-width: 352px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .places__website-link {
+    max-width: 288px;
+  }
+}
