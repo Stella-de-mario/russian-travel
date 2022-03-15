@@ -4,17 +4,17 @@
   font-weight: normal;
   font-style: normal;
   color: #ffffff;
-  
+  margin: 0;
 }
 
-  .places__paragraph-text:last-of-type {
-    margin-bottom: 0;
-  }
+.places__paragraph-text:last-of-type {
+  margin-bottom: 0;
+}
 
-@media screen and (max-width:1023px) {
-    .places__paragraph-text {
-      font-size: 16px;
-      line-height: 162%;
+@media screen and (max-width: 1023px) {
+  .places__paragraph-text {
+    font-size: 16px;
+    line-height: 162%;
   }
 }
 
