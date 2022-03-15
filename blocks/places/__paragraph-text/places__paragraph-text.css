@@ -5,6 +5,8 @@
   font-style: normal;
   color: #ffffff;
   margin: 0;
+  margin-bottom: 26px;
+  padding: 0;
 }
 
 .places__paragraph-text:last-of-type {
