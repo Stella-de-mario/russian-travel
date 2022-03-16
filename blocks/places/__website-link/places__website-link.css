@@ -1,5 +1,6 @@
 .places__website-link {
-  margin-top: 12px;
+  margin: 0;
+  padding: 0;
   max-width: 456px;
   font-weight: normal;
   font-style: normal;
