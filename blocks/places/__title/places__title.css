@@ -5,17 +5,24 @@
   font-weight: 900;
   color: #ffffff;
   margin: 0;
+  padding: 0;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width:900px) {
   .places__title {
-    max-width: 330px;
-    font-size: 42px;
-    line-height: 46px;
+    font-size: 55px;
+    padding-right: 10px;
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width:768px) {
+  .places__title {
+    font-size: 42px;
+    line-height: 1.09;
+  }
+}
+
+@media screen and (max-width: 320px) {
   .places__title {
     font-size: 32px;
     padding-right: 0;

@@ -1,20 +1,5 @@
 .places__list {
-  display: grid;
-  row-gap: 80px;
-  list-style: none;
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
-  align-items: center;
-}
-
-@media screen and (max-width: 1023px) {
-  .places__list {
-    row-gap: 73px;
-  }
-}
-
-@media screen and (max-width: 767px) {
-  .places__list {
-    row-gap: 50px;
-  }
+  list-style: none;
 }
